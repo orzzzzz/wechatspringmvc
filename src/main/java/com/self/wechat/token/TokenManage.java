@@ -1,10 +1,11 @@
 package com.self.wechat.token;
 
+import com.self.common.config.SysConfig;
 import com.self.wechat.token.bean.Token;
 import org.slf4j.Logger;
 
 /**
- * 描述：TODO
+ * 描述：token中控服务器
  *
  * @author zhangmengwen
  * @date 2016/8/17
@@ -24,7 +25,6 @@ public class TokenManage {
      * @return
      */
     public static Token getToken() throws Exception {
-        logger.info("真的进来了======================");
         System.out.println(token==null);
         if (token == null) {
             refreshToken();
@@ -45,7 +45,7 @@ public class TokenManage {
      */
     public static void refreshToken() throws Exception {
 
-        token = TokenApi.getToken("wx5184e09f3973c95b", "bbeccfdecbd117cbc6edd0fcddc5ca03");
+        token = TokenAPI.getToken(SysConfig.WECHAT_APP_ID, SysConfig.WECHAT_APP_SECRET);
         logger.info(token.getAccess_token());
     }
 }

@@ -1,7 +1,7 @@
 package com.self.wechat.menu;
 
 import com.fasterxml.jackson.databind.JsonNode;
-import com.self.wechat.base.BaseApi;
+import com.self.wechat.base.BaseAPI;
 import com.self.wechat.base.BaseResult;
 import com.self.wechat.client.HttpClientExecutor;
 import com.self.wechat.util.HttpUtil;
@@ -15,13 +15,13 @@ import static com.self.wechat.client.HttpClientExecutor.executeJsonResult;
 
 
 /**
- * 描述：TODO
+ * 描述：菜单 API
  *
  * @author zhangmengwen
  * @date 2016/8/17
  */
-public class MenuApi extends BaseApi {
-    private static Logger logger = LoggerFactory.getLogger(MenuApi.class);
+public class MenuAPI extends BaseAPI {
+    private static Logger logger = LoggerFactory.getLogger(MenuAPI.class);
 
     /**
      * 菜单创建
@@ -31,7 +31,7 @@ public class MenuApi extends BaseApi {
      * @return
      */
     public static boolean creatMenu(String token, String jsonMenu) {
-        String requestUrl = BaseApi.BASE_URL.concat("/cgi-bin/menu/create?access_token=").concat(token);
+        String requestUrl = BaseAPI.BASE_URL.concat("/cgi-bin/menu/create?access_token=").concat(token);
         boolean result = false;
 
         JsonNode jsonNode = HttpUtil.httpsRequest(requestUrl, "POST", jsonMenu);

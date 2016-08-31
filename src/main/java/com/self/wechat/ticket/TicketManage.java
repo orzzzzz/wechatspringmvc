@@ -6,7 +6,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * 描述：TODO
+ * 描述：ticket 中控服务器
  *
  * @author zhangmengwen
  * @date 2016/8/24
@@ -45,7 +45,7 @@ public class TicketManage {
      */
     public static void refreshTicket() throws Exception {
         String token = TokenManage.getToken().getAccess_token();
-        ticket = TicketApi.getTicket(token);
+        ticket = TicketAPI.getTicket(token);
         ticket.setExpires_in(System.currentTimeMillis() + 7000 * 1000);
     }
 }

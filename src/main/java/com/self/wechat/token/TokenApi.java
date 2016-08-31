@@ -2,17 +2,17 @@ package com.self.wechat.token;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.self.wechat.base.BaseApi;
+import com.self.wechat.base.BaseAPI;
 import com.self.wechat.token.bean.Token;
 import com.self.wechat.util.HttpUtil;
 
 /**
- * 描述：TODO
+ * 描述：token API
  *
  * @author zhangmengwen
  * @date 2016/8/17
  */
-public class TokenApi extends BaseApi {
+public class TokenAPI extends BaseAPI {
     /**
      * 通过接口调用获取access_token
      *

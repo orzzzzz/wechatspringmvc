@@ -1,12 +1,12 @@
 package com.self.wechat.base;
 
 /**
- * 描述：TODO
+ * 描述：基础API
  *
  * @author zhangmengwen
  * @date 2016/8/17
  */
-public class BaseApi {
+public class BaseAPI {
     /**
      * 微信接口地址
      */

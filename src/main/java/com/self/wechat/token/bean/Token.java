@@ -3,7 +3,7 @@ package com.self.wechat.token.bean;
 import com.self.wechat.base.BaseResult;
 
 /**
- * 描述：TODO
+ * 描述：token bean
  *
  * @author zhangmengwen
  * @date 2016/8/17

@@ -2,7 +2,7 @@ package com.self.wechat.material;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.self.wechat.base.BaseApi;
+import com.self.wechat.base.BaseAPI;
 import com.self.wechat.base.BaseResult;
 import com.self.wechat.client.HttpClientExecutor;
 import com.self.wechat.material.bean.Articles;
@@ -28,13 +28,13 @@ import java.util.Map;
 import static java.lang.System.out;
 
 /**
- * 描述：TODO
+ * 描述：素材管理 API
  *
  * @author zhangmengwen
  * @date 2016/8/25
  */
-public class MaterialApi extends BaseApi {
-    private static Logger logger = LoggerFactory.getLogger(MaterialApi.class);
+public class MaterialAPI extends BaseAPI {
+    private static Logger logger = LoggerFactory.getLogger(MaterialAPI.class);
 
     /**
      * 下载临时素材

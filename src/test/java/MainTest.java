@@ -18,7 +18,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
 
-import static com.self.wechat.material.MaterialApi.mediaUploadGraphic;
+import static com.self.wechat.material.MaterialAPI.mediaUploadGraphic;
 
 /**
  * 描述：TODO

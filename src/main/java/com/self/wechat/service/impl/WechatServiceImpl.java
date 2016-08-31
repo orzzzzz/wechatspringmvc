@@ -11,7 +11,7 @@ import java.util.Date;
 import java.util.Map;
 
 /**
- * 描述：TODO
+ * 描述：消息处理
  *
  * @author zhangmengwen
  * @date 2016/8/18

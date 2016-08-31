@@ -29,28 +29,6 @@ public class MaterialTest {
         map.put("a","a2");
         System.out.println(map.entrySet().toString());
 
-
-        String token = "f9ppV9lxD27r-m2FYWpcKsYwF0h2TdAMtlynVE1L7xPn_SMX_0rMMF2TaeY_cCuvjG-8lbgL3Nr56BF1dF_a5ZGVSeLWu-kz2aZL3YV6K7WIucT6npyL3LZlkQJWF_AYFKXeADALQD";
-        String media_id = "c-jZORW9mt37UqQuQJIxnkA2KexL5dNy884Jd7klLZQ";
-        //String url = "https://api.weixin.qq.com/cgi-bin/media/uploadimg?access_token="+token;
-        //String id = MaterialApi.uploadImgOrVoice(url, "E:/animal.jpg");
-        //System.out.println(id);
-
-        //String url = "https://api.weixin.qq.com/cgi-bin/media/get?access_token="+token+"&media_id="+media_id;
-        //HttpUtil.httpsRequest2(url, "GET", null);
-
-        //NewsSingleArticles article1 = new NewsSingleArticles();
-        //article1.setTitle("TITLE");
-        //article1.setThumb_media_id(media_id);
-        //article1.setAuthor("AUTHOR");
-        //article1.setDigest("DIGEST");
-        //article1.setShow_cover_pic(1);
-        //article1.setContent("CONTENT");
-        //article1.setContent_source_url("http://blog.sina.com.cn/s/blog_6610da3901012doz.html");
-        //
-        //Articles articles = new Articles();
-        //articles.setArticles(new NewsSingleArticles[]{article1});
-        //MaterialApi.uploadNewsMaterial(token, articles);
     }
 
     /**
@@ -68,7 +46,7 @@ public class MaterialTest {
                 "http://api.weixin.qq.com/cgi-bin/material/add_material?access_token=%1s&type=%2s",
                 token,
                 type);
-        String result = MaterialApi.uploadImgOrVoice(uploadMediaUrl, "E:/moning.png");
+        String result = MaterialAPI.uploadImgOrVoice(uploadMediaUrl, "E:/moning.png");
         System.out.println(result);
     }
 
@@ -82,7 +60,7 @@ public class MaterialTest {
     public void testMediaUploadGraphic() throws Exception {
         String token = "9--B8N4GM8Q_RsI1bNE5M51KLqaaDkWMJC_TMCNrGJHkfJhyFA20lRnfnGzQuhfCBOvzg3uhs8ZIyc1J6Uosgav0A7GSL-kgKmW6L0XSP2vYQ9dGYJMbExBWoTbktItDWXUbAHANOL";
         File file = new File("E:/animal.jpg");
-        Media media = MaterialApi.mediaUploadGraphic(token, "image", file);
+        Media media = MaterialAPI.mediaUploadGraphic(token, "image", file);
         System.out.println(media.getErrcode());
         System.out.println(media.toString());
     }
@@ -96,7 +74,7 @@ public class MaterialTest {
     @Ignore
     public void testDeleteMaterial() throws Exception {
         String token = TokenManage.getToken().getAccess_token();
-        BaseResult result = MaterialApi.deleteMaterial(token,"c-jZORW9mt37UqQuQJIxnnT0w2qcgVJ5-m_tGCv1jRg");
+        BaseResult result = MaterialAPI.deleteMaterial(token,"c-jZORW9mt37UqQuQJIxnnT0w2qcgVJ5-m_tGCv1jRg");
         ObjectMapper mapper = new ObjectMapper();
         System.out.println(mapper.writeValueAsString(result));
     }
@@ -120,7 +98,7 @@ public class MaterialTest {
         articles.setContent("松鼠爱吃松仁。");
         articles.setContent_source_url("http://lijingshou.iteye.com/blog/2003020");
 
-        BaseResult result = MaterialApi.updateNewsMaterial(token, media_id, "0", articles);
+        BaseResult result = MaterialAPI.updateNewsMaterial(token, media_id, "0", articles);
         ObjectMapper mapper = new ObjectMapper();
         System.out.println(mapper.writeValueAsString(result));
     }
@@ -158,6 +136,6 @@ public class MaterialTest {
         articles3.setContent_source_url("http://mp.weixin.qq.com/wiki/17/fa4e1434e57290788bde25603fa2fcbd.html");
 
         articles.setArticles(new NewsSingleArticles[]{articles1, articles2, articles3});
-        MaterialApi.uploadNewsMaterial(token,articles);
+        MaterialAPI.uploadNewsMaterial(token,articles);
     }
 }

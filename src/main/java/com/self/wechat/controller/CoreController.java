@@ -1,5 +1,6 @@
 package com.self.wechat.controller;
 
+import com.self.common.config.SysConfig;
 import com.self.wechat.service.IWechatService;
 import org.apache.commons.codec.digest.DigestUtils;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -12,7 +13,7 @@ import javax.servlet.http.HttpServletRequest;
 import java.util.Arrays;
 
 /**
- * 描述：TODO
+ * 描述：核心控制类
  *
  * @author zhangmengwen
  * @date 2016/8/16
@@ -51,9 +52,9 @@ public class CoreController {
     @RequestMapping(value = "/service", method = RequestMethod.POST, produces = "application/xml;charset=UTF-8")
     @ResponseBody
     public String processMsg(HttpServletRequest request) throws Exception {
-        //if(isWechatCall(request)){
-        //    return "";
-        //}
+        if(isWechatCall(request)){
+            return "";
+        }
         String result = WechatServiceImpl.messageRouter(request);
         //String result = WechatServiceImpl.message(request);
         System.out.println(result);
@@ -70,7 +71,7 @@ public class CoreController {
         String signature = request.getParameter("signature");
         String timestamp = request.getParameter("timestamp");
         String nonce = request.getParameter("nonce");
-        String[] digest = {"wechat_lpsp", timestamp, nonce};
+        String[] digest = {SysConfig.WECHAT_TOKEN, timestamp, nonce};
         Arrays.sort(digest);
         //拼接字符串
         StringBuffer sb = new StringBuffer();

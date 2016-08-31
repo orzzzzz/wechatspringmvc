@@ -3,7 +3,7 @@ package com.self.wechat.message.resolver;
 import java.util.Map;
 
 /**
- * 描述：TODO
+ * 描述：消息解析器接口
  *
  * @author zhangmengwen
  * @date 2016/8/18

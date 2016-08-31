@@ -3,7 +3,7 @@ package com.self.wechat.service;
 import javax.servlet.http.HttpServletRequest;
 
 /**
- * 描述：TODO
+ * 描述：消息处理接口
  *
  * @author zhangmengwen
  * @date 2016/8/18

@@ -1,6 +1,6 @@
 package com.self.wechat.ticket;
 
-import com.self.wechat.base.BaseApi;
+import com.self.wechat.base.BaseAPI;
 import com.self.wechat.client.HttpClientExecutor;
 import com.self.wechat.ticket.bean.Ticket;
 import org.apache.http.client.methods.HttpUriRequest;
@@ -12,7 +12,7 @@ import org.apache.http.client.methods.RequestBuilder;
  * @author zhangmengwen
  * @date 2016/8/24
  */
-public class TicketApi extends BaseApi {
+public class TicketAPI extends BaseAPI {
 
     /**
      * 获取jsapi_ticket

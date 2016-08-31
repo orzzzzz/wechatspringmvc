@@ -13,7 +13,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * 描述：TODO
+ * 描述：点击事件解析器
  *
  * @author zhangmengwen
  * @date 2016/8/19

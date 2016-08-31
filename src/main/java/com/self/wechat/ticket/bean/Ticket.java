@@ -1,7 +1,7 @@
 package com.self.wechat.ticket.bean;
 
 /**
- * 描述：TODO
+ * 描述：ticket bean
  *
  * @author zhangmengwen
  * @date 2016/8/24

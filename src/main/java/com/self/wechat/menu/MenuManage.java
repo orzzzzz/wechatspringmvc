@@ -7,7 +7,7 @@ import org.slf4j.LoggerFactory;
 
 
 /**
- * 描述：TODO
+ * 描述：菜单管理
  *
  * @author zhangmengwen
  * @date 2016/8/17
@@ -85,7 +85,7 @@ public class MenuManage {
         //String token = TokenManage.getToken().getAccess_token();
         System.out.println(token);
         logger.info("创建菜单token>>>>>>>>>>>>>>>>>>"+token);
-        boolean result = MenuApi.creatMenu(token, jsonMenu);
+        boolean result = MenuAPI.creatMenu(token, jsonMenu);
         if (result) {
             logger.info("菜单创建成功！");
         } else {
@@ -100,10 +100,5 @@ public class MenuManage {
         //}else{
         //    logger.error("菜单删除失败！");
         //}
-
-
-        //logger.info(MenuApi.getMenu(token));
-        //
-        //logger.info(MenuApi.getMenuInfo(token));
     }
 }

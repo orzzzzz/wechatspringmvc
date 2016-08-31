@@ -1,7 +1,7 @@
 package com.self.wechat.base;
 
 /**
- * 描述：TODO
+ * 描述：消息父类
  *
  * @author zhangmengwen
  * @date 2016/8/17

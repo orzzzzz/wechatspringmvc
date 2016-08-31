@@ -34,4 +34,12 @@ public class Token extends BaseResult {
     public void setExpires_in(Long expires_in) {
         this.expires_in = expires_in;
     }
+
+    @Override
+    public String toString() {
+        return "Token{" +
+                "access_token='" + access_token + '\'' +
+                ", expires_in=" + expires_in +
+                '}';
+    }
 }

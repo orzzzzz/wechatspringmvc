@@ -1,0 +1,37 @@
+2016-08-30 16:02:43,559 [main] INFO  com.self.wechat.token.TokenManage - 真的进来了======================
+2016-08-30 16:02:45,200 [main] INFO  com.self.wechat.token.TokenManage - iD7h65nyz4E5hYsUinKg5DeU4zk9ex7PUR820KMU_CVHwgK3R3AKeK5ajJyXGEevkHXfQCymnXJUd4Ka5-TlDr69OqQmBnEJEghUgdmTXKvC0_fWY5fqvzZS7IP0I4qgMADeAAARFI
+2016-08-30 16:02:45,200 [main] INFO  com.self.wechat.token.TokenManage - token================null 获取token
+2016-08-30 16:03:06,160 [main] INFO  com.self.wechat.token.TokenManage - 真的进来了======================
+2016-08-30 16:03:07,274 [main] INFO  com.self.wechat.token.TokenManage - 1AGudXJqK826lf3MQp3FJlQvwmoRFhX-jFDtbzPpmsHlXyQUzzsN-ncSdzQCAn760SrZZ4m2u-PJSUneUhC7JXCDX9VkYz-niKVvs-QcwzKmdZ-KzSE3uUI8Uo9fQpTBIGMjACACAG
+2016-08-30 16:03:07,275 [main] INFO  com.self.wechat.token.TokenManage - token================null 获取token
+2016-08-30 16:04:51,024 [main] INFO  com.self.wechat.token.TokenManage - 真的进来了======================
+2016-08-30 16:04:51,924 [main] INFO  com.self.wechat.token.TokenManage - t432MVkPQdnXtohNdEVnxFf17cd1gY1UwxqAs1vhzVyDNyadIuyP56fdKngF927QjAndWO6xnPoNQRCIm1uQr9sJJB0J4MR4SAulbYhd4VUmRChKSLTkn4PRxp77wNPTYTTbACADYY
+2016-08-30 16:04:51,924 [main] INFO  com.self.wechat.token.TokenManage - token================null 获取token
+2016-08-30 16:14:01,606 [main] INFO  com.self.wechat.token.TokenManage - 真的进来了======================
+2016-08-30 16:14:02,740 [main] INFO  com.self.wechat.token.TokenManage - SASLbx2dXJIl-jldMpPQV0FVpM3ZuMZL9WA8r6BJKPEjyOZBhQkyLU0PfLxRpzU8p-Q_yAU7F13ukg8klrPZCi4BFWO74LBKueY87ij0F3pdN4f-mqZiwX_mL3F2OnuMORGjAFAHKZ
+2016-08-30 16:14:02,741 [main] INFO  com.self.wechat.token.TokenManage - token================null 获取token
+2016-08-30 16:14:02,833 [main] INFO  com.self.wechat.material.MaterialApi - 上传文件结果：{"errcode":40113,"errmsg":"unsupported file type hint: [WeOoza0849e292]"}
+2016-08-30 16:54:17,171 [main] INFO  com.self.wechat.token.TokenManage - 真的进来了======================
+2016-08-30 16:54:18,881 [main] INFO  com.self.wechat.token.TokenManage - ycTwLuAjJZvqndnFx58xLh61gQRO7fHY6XVbLY2D0aMSvYMIr_xioTO0b7WoiVVUJ5qCnQBGpyj1xpFs3JtpEb8XydTIIISDJ3gYfbKFZ8LibAvHjokoHv1FFlQ1gUObNVZgAHAVDH
+2016-08-30 16:54:18,881 [main] INFO  com.self.wechat.token.TokenManage - token================null 获取token
+2016-08-30 16:54:19,016 [main] INFO  com.self.wechat.material.MaterialApi - 上传文件结果：{"errcode":40113,"errmsg":"unsupported file type hint: [nCn0265e298]"}
+2016-08-30 16:55:58,573 [main] INFO  com.self.wechat.token.TokenManage - 真的进来了======================
+2016-08-30 16:55:59,576 [main] INFO  com.self.wechat.token.TokenManage - ZUX3llFGthY0KHKxqbFQEXOXDcQYKatyPHCUbOk4jwaSK9gfxWO2Nz8eabZ7m2OTHwACGEeOZ61Ccw37rMzWireYvNAhwzHARgd_Rc5ofX1um45UJPHC_gUZckAlOCmxHZLiAHAQIU
+2016-08-30 16:55:59,576 [main] INFO  com.self.wechat.token.TokenManage - token================null 获取token
+2016-08-30 17:03:34,542 [main] INFO  com.self.wechat.token.TokenManage - 真的进来了======================
+2016-08-30 17:03:46,080 [main] INFO  com.self.wechat.token.TokenManage - 真的进来了======================
+2016-08-30 17:03:47,177 [main] INFO  com.self.wechat.token.TokenManage - nyRwQyqDD6_AwH3QjVZPIF3f4hfakh7-x9Kh3gwWbcJ7hiLk5-6mJuWvyj9JM2LmOTgmKmpMvZgAPBoucCEEPVJtSoZzH8nZs50PBv-HpZu2-F9WcAtXXn2jXyr7IN4ZNAHcAIACPW
+2016-08-30 17:03:47,177 [main] INFO  com.self.wechat.token.TokenManage - token================null 获取token
+2016-08-30 17:04:18,116 [main] INFO  com.self.wechat.token.TokenManage - 真的进来了======================
+2016-08-30 17:04:19,357 [main] INFO  com.self.wechat.token.TokenManage - uf6FkgD8PMauXkTDdpics6tpMFgHpYSYPwRILaJuNHwVx45vM-TTNXJ--DRLGCgTsr7-zOT1D7r0w4wpdQcTkPkpfsTWP9vEIambFzxQ9oTUvs5e6ZkOAe36xkxnpRFlUFIiACAYJM
+2016-08-30 17:04:19,368 [main] INFO  com.self.wechat.token.TokenManage - token================null 获取token
+2016-08-30 17:04:34,485 [main] INFO  com.self.wechat.token.TokenManage - 真的进来了======================
+2016-08-30 17:04:35,794 [main] INFO  com.self.wechat.token.TokenManage - uf6FkgD8PMauXkTDdpics6tpMFgHpYSYPwRILaJuNHwLrmn-VCxGhN6BdLd-7Rh8UZoqc9J345CisJ7dwQg9hOyI0yCUnv2DSV5O_L3ADFM_2z9Uk0XivGYJeAI0bnpBTGOiACAPCK
+2016-08-30 17:04:35,794 [main] INFO  com.self.wechat.token.TokenManage - token================null 获取token
+2016-08-30 17:04:53,979 [main] INFO  com.self.wechat.token.TokenManage - 真的进来了======================
+2016-08-30 17:04:55,216 [main] INFO  com.self.wechat.token.TokenManage - QADFL8S3QPhUir5gW9qw_JlrTE4bKyc3vkEpyu7-Z31eHhUPZqqTbGm24AFhyjykDwVzulOKS52Yapg36i74lEHGD3g-sik_vWGu3uVM6QU9T9OPkVOkfMhs4z-Sp1OgTMLaAHAMFE
+2016-08-30 17:04:55,216 [main] INFO  com.self.wechat.token.TokenManage - token================null 获取token
+2016-08-30 17:04:55,433 [main] INFO  com.self.wechat.material.MaterialApi - 上传文件结果：{"errcode":40113,"errmsg":"unsupported file type hint: [X1iGSA0902e292]"}
+2016-08-30 17:06:36,066 [main] INFO  com.self.wechat.material.MaterialApi - 上传文件结果：{"errcode":40113,"errmsg":"unsupported file type hint: [legPGa0002e297]"}
+2016-08-30 17:29:41,963 [main] INFO  com.self.wechat.material.MaterialApi - 上传文件结果：{"errcode":40113,"errmsg":"unsupported file type hint: [VTVmpA0388e297]"}
+2016-08-30 17:39:30,080 [main] INFO  com.self.wechat.material.MaterialApi - 上传文件结果：{"errcode":45009,"errmsg":"reach max api daily quota limit hint: [BXreTA0976e297]"}

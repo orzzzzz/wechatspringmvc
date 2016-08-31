@@ -21,7 +21,7 @@ public class TokenApi extends BaseApi {
      * @return
      */
     public static Token getToken(String appID, String appsecret) throws Exception {
-        String requestUrl = BaseApi.BASE_URL.concat("/cgi-bin/token?grant_type=client_credential&appid=")
+        String requestUrl = BASE_URL.concat("/cgi-bin/token?grant_type=client_credential&appid=")
                 .concat(appID).concat("&secret=").concat(appsecret);
         JsonNode jsonNode = HttpUtil.httpsRequest(requestUrl,"GET",null);
         Token token = new Token();

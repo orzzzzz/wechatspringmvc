@@ -1,0 +1,10 @@
+2016-08-29 08:51:27,974 [main] INFO  com.self.wechat.token.TokenManage - 真的进来了======================
+2016-08-29 08:51:28,012 [main] INFO  com.self.wechat.token.TokenManage - 又来一次
+2016-08-29 08:51:29,531 [main] INFO  com.self.wechat.token.TokenManage - token================null 获取token
+2016-08-29 08:51:29,776 [main] INFO  com.self.wechat.material.MaterialApi - 上传文件结果：{"errcode":40113,"errmsg":"unsupported file type hint: [sHAmQa0896e298]"}
+2016-08-29 09:07:04,561 [main] INFO  com.self.wechat.token.TokenManage - 真的进来了======================
+2016-08-29 09:07:06,765 [main] INFO  com.self.wechat.token.TokenManage - f9ppV9lxD27r-m2FYWpcKsYwF0h2TdAMtlynVE1L7xPn_SMX_0rMMF2TaeY_cCuvjG-8lbgL3Nr56BF1dF_a5ZGVSeLWu-kz2aZL3YV6K7WIucT6npyL3LZlkQJWF_AYFKXeADALQD
+2016-08-29 09:07:06,766 [main] INFO  com.self.wechat.token.TokenManage - token================null 获取token
+2016-08-29 09:10:18,336 [main] INFO  com.self.wechat.material.MaterialApi - "c-jZORW9mt37UqQuQJIxnhmt3FBfnuWSw-DxN8O0WZI"
+2016-08-29 09:11:14,766 [main] INFO  com.self.wechat.menu.MenuManage - 创建菜单token>>>>>>>>>>>>>>>>>>f9ppV9lxD27r-m2FYWpcKsYwF0h2TdAMtlynVE1L7xPn_SMX_0rMMF2TaeY_cCuvjG-8lbgL3Nr56BF1dF_a5ZGVSeLWu-kz2aZL3YV6K7WIucT6npyL3LZlkQJWF_AYFKXeADALQD
+2016-08-29 09:11:15,819 [main] INFO  com.self.wechat.menu.MenuManage - 菜单创建成功！

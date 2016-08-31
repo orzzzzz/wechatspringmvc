@@ -1,7 +1,10 @@
 package com.self.wechat.message.resolver;
 
-import com.self.wechat.message.bean.Article;
-import com.self.wechat.message.bean.NewsMessage;
+import com.fasterxml.jackson.databind.JsonNode;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import com.self.wechat.message.bean.*;
+import com.self.wechat.token.TokenManage;
+import com.self.wechat.util.HttpUtil;
 import com.self.wechat.util.XmlUtil;
 
 import java.util.ArrayList;
@@ -20,6 +23,7 @@ public class EventClickNewsResolver implements IResolver {
     public String resolve(Map<String, String> message) throws Exception {
         String respMessage = null;
         String content = message.get("EventKey");
+        System.out.println("========================="+message.get("openid"));
         // 创建图文消息
         NewsMessage newsMessage = new NewsMessage();
         newsMessage.setToUserName(message.get("FromUserName"));
@@ -147,8 +151,58 @@ public class EventClickNewsResolver implements IResolver {
             newsMessage.setArticleCount(articleList.size());
             newsMessage.setArticles(articleList);
             respMessage = XmlUtil.newsMessageToXml(newsMessage);
+        } else if ("buy".equals(content)) {
+            String url = "https://api.weixin.qq.com/cgi-bin/message/template/send?access_token=ACCESS_TOKEN";
+            url = url.replace("ACCESS_TOKEN", TokenManage.getToken().getAccess_token());
+            String jsonMessage = creatTemplate(message.get("FromUserName").toString());
+            JsonNode jsonNode = HttpUtil.httpsRequest(url, "POST", jsonMessage);
+            System.out.println(jsonNode.get("errcode").toString());
+            System.out.println(jsonNode.get("errmsg").toString());
+            System.out.println(jsonNode.get("msgid").toString());
         }
         System.out.println(respMessage);
         return respMessage;
+    }
+
+    public static String creatTemplate(String openId) throws Exception {
+        TemplateMessage message = new TemplateMessage();
+
+        TemplateDate date = new TemplateDate();
+
+        TemplateBase first = new TemplateBase();
+        first.setColor("#FF0000");
+        first.setValue("恭喜你购买成功！");
+
+        TemplateBase keynote1 = new TemplateBase();
+        keynote1.setColor("#FF0000");
+        keynote1.setValue("巧克力");
+
+        TemplateBase keynote2 = new TemplateBase();
+        keynote2.setColor("#FF0000");
+        keynote2.setValue("39.8元");
+
+        TemplateBase keynote3 = new TemplateBase();
+        keynote3.setColor("#FF0000");
+        keynote3.setValue("2014年9月22日");
+
+        TemplateBase remark = new TemplateBase();
+        remark.setColor("#FF0000");
+        remark.setValue("欢迎再次购买！");
+
+        date.setFirst(first);
+        date.setKeynote1(keynote1);
+        date.setKeynote2(keynote2);
+        date.setKeynote3(keynote3);
+        date.setRemark(remark);
+
+        message.setTouser(openId);//"olnbTw-HrfZdQvj-qqvwnvib5wg4"
+        message.setTemplate_id("MpI4c-quoVO4tM3NMX97BJXaC8HXIJ3yAiSvGIBKZ-4");
+        message.setUrl("www.baidu.com");
+        message.setData(new TemplateDate[]{date});
+
+        ObjectMapper mapper = new ObjectMapper();
+        String jsonMessage = mapper.writeValueAsString(message);
+        System.out.println(jsonMessage);
+        return jsonMessage;
     }
 }

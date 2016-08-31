@@ -1,0 +1,24 @@
+2016-08-31 09:35:47,350 [main] INFO  com.self.wechat.token.TokenManage - 真的进来了======================
+2016-08-31 09:35:48,601 [main] INFO  com.self.wechat.token.TokenManage - iZCcIP3Jp8opad0qh4LN1exU_QaZgobhVEbIwuLJCNtaeudOMcAhjgmnKVV_eNfatF2PnUFsCpz9U0r6qjUTEUXxXvS2YWIgzGuBA5Chp7JnvGhi6dba3SmmPR1cWtkTCOOcAIAQCC
+2016-08-31 09:35:48,602 [main] INFO  com.self.wechat.token.TokenManage - token================null 获取token
+2016-08-31 09:38:05,514 [main] INFO  com.self.wechat.token.TokenManage - 真的进来了======================
+2016-08-31 09:38:06,566 [main] INFO  com.self.wechat.token.TokenManage - nyRwQyqDD6_AwH3QjVZPIJ90UN02WVKX38JYmXnMGrxcXHqLuQCk7yn42fWKHpf-EoU9Z5Fs2jHLFnMouzai0pWB4_1qZ5rJtsIgUDhWoTz2r9LAftiyRPFzQWfhexgoYOPiAJAEUV
+2016-08-31 09:38:06,568 [main] INFO  com.self.wechat.token.TokenManage - token================null 获取token
+2016-08-31 10:12:33,612 [main] INFO  com.self.wechat.token.TokenManage - 真的进来了======================
+2016-08-31 10:12:34,690 [main] INFO  com.self.wechat.token.TokenManage - 4uLtLO6XLKTPy88fv_HI_4PgNKr-59uNAmMP-1MXz0Jpy1RBP5QJPLXoaLxAXocfl3sINOvuIMZail-wkPunahT4F1EeltgJSB4crLNAbccHDIcAFAPLQ
+2016-08-31 10:12:34,690 [main] INFO  com.self.wechat.token.TokenManage - token================null 获取token
+2016-08-31 10:19:32,033 [main] INFO  com.self.wechat.token.TokenManage - 真的进来了======================
+2016-08-31 10:19:33,277 [main] INFO  com.self.wechat.token.TokenManage - gNqwi1voTZtLb6ybJvg0Y5iIN_u_lFn-6msWtZDXEJTJFO8QHrrQBetbcBQ8cgiFpPEb27uKSQQk4MPS6cunZdVOeVxuBe_i5g8H_HHmEoQO3b_2QRtm1PSk0uRn4dZMFTSiAEAAON
+2016-08-31 10:19:33,278 [main] INFO  com.self.wechat.token.TokenManage - token================null 获取token
+2016-08-31 10:23:04,726 [main] INFO  com.self.wechat.menu.MenuManage - 创建菜单token>>>>>>>>>>>>>>>>>>f9ppV9lxD27r-m2FYWpcKsYwF0h2TdAMtlynVE1L7xPn_SMX_0rMMF2TaeY_cCuvjG-8lbgL3Nr56BF1dF_a5ZGVSeLWu-kz2aZL3YV6K7WIucT6npyL3LZlkQJWF_AYFKXeADALQD
+2016-08-31 10:23:05,577 [main] ERROR com.self.wechat.menu.MenuApi - 创建菜单失败：errcode:42001 errmsg:"access_token expired hint: [nZ0192vr19]"
+2016-08-31 10:23:05,602 [main] ERROR com.self.wechat.menu.MenuManage - 菜单创建失败！
+2016-08-31 10:23:24,604 [main] INFO  com.self.wechat.menu.MenuManage - 创建菜单token>>>>>>>>>>>>>>>>>>tIbWot30oKy2wOlMdXu3l4avBNXBZvzcO34NvVhaAbx19Y1Ocpk-LC9uy7JZwDkwl9-Mvi65bM22YwoOqlSktH_Lojw4jDUf3v_Z4-HE19_2AlJIvEymZr71JvmGJXMbBEHjAIATWZ
+2016-08-31 10:23:25,409 [main] ERROR com.self.wechat.menu.MenuApi - 创建菜单失败：errcode:40018 errmsg:"invalid button name size hint: [AXtc0a0212vr21]"
+2016-08-31 10:23:25,410 [main] ERROR com.self.wechat.menu.MenuManage - 菜单创建失败！
+2016-08-31 10:24:19,686 [main] INFO  com.self.wechat.menu.MenuManage - 创建菜单token>>>>>>>>>>>>>>>>>>tIbWot30oKy2wOlMdXu3l4avBNXBZvzcO34NvVhaAbx19Y1Ocpk-LC9uy7JZwDkwl9-Mvi65bM22YwoOqlSktH_Lojw4jDUf3v_Z4-HE19_2AlJIvEymZr71JvmGJXMbBEHjAIATWZ
+2016-08-31 10:24:20,526 [main] INFO  com.self.wechat.menu.MenuManage - 菜单创建成功！
+2016-08-31 11:11:19,678 [main] INFO  com.self.wechat.material.MaterialApi - 40001>>>>>>>>>>>>>>>>>>>>>>>>>"invalid credential, access_token is invalid or not latest hint: [wkmVMA0086e292]"
+2016-08-31 11:11:47,350 [main] INFO  com.self.wechat.material.MaterialApi - "c-jZORW9mt37UqQuQJIxno0DQltaCHk4CJFl3Kng158"
+2016-08-31 11:13:16,180 [main] INFO  com.self.wechat.menu.MenuManage - 创建菜单token>>>>>>>>>>>>>>>>>>SaD9rx88LR7g0vBgtdb-tBvLs4aAgiIwdxDb2B45c3PbbZYbgT3bhrzec-kR-_Hu4c0V8rus8Gin1uZpBrpGZZFb1HFPpPanYTZENhDBGIMuVil1Wc0yjD3PzNR4DDAzDYFaAIANIP
+2016-08-31 11:13:17,132 [main] INFO  com.self.wechat.menu.MenuManage - 菜单创建成功！

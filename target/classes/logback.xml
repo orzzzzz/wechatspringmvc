@@ -6,7 +6,7 @@
 	<!-- 定义上下文 -->
 	<property name="contextName" value="wechatspringmvc" />
 	<!-- 定义日志根目录 -->
-	<property name="logHome" value="${project.logDir}" />
+	<property name="logHome" value="logs" />
 	<!-- 全量日志路径 -->
 	<property name="allLogFilePath" value="all" />
 	<!-- 全量日志文件名 -->

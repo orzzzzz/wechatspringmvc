@@ -18,7 +18,7 @@ import java.util.Arrays;
  * @date 2016/8/16
  */
 @Controller
-@RequestMapping(value = "/wechat")
+@RequestMapping(value = "/core")
 public class CoreController {
 
     @Autowired
@@ -70,7 +70,7 @@ public class CoreController {
         String signature = request.getParameter("signature");
         String timestamp = request.getParameter("timestamp");
         String nonce = request.getParameter("nonce");
-        String[] digest = {"wechat", timestamp, nonce};
+        String[] digest = {"wechat_lpsp", timestamp, nonce};
         Arrays.sort(digest);
         //拼接字符串
         StringBuffer sb = new StringBuffer();

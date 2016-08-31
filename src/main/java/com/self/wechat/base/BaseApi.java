@@ -10,7 +10,6 @@ public class BaseApi {
     /**
      * 微信接口地址
      */
-    protected static final String BASE_URL = " https://api.weixin.qq.com";
-
+    protected static final String BASE_URL = "https://api.weixin.qq.com";
 
 }

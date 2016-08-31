@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Shopping Car</title>
+    <link rel="stylesheet" href="http://apps.bdimg.com/libs/bootstrap/3.3.0/css/bootstrap.min.css">
+    <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="http://apps.bdimg.com/libs/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+    <!--<script src="http://cdn.bootcss.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>-->
+</head>
+<body>
+    <div>
+        <ol class="breadcrumb">
+            <li><a href="#">首页</a></li>
+            <li><label>购物车</label></li>
+        </ol>
+    </div>
+    <div>
+        <table>
+            <tr>
+                <th width="60px">
+                    <input id="check-all" type="checkbox"/>
+                    <label for="check-all">全选</label>
+                </th>
+                <th width="120px"><label>产品型号</label></th>
+                <th width="120px"><label>产品备注</label></th>
+                <th width="100px"><label>销售单价</label></th>
+                <th width="140px"><label>采购数量</label></th>
+                <th width="100px"><label>金额小计</label></th>
+                <th width="80px"><label>操作</label></th>
+            </tr>
+            <tbody>
+                <tr>
+                    <td>
+                        <input class="check-one" type="checkbox"/>
+                    </td>
+                    <td><span>item1</span></td>
+                    <td><span>艾弗森符合国家好</span></td>
+                    <td class="selling-price number small-bold-red text-right">80.66</td>
+                    <td>
+                        <span>-</span>
+                        <input type="text" value="2"/>
+                        <span>+</span>
+                    </td>
+                    <td>161.32</td>
+                    <td><span>删除</span></td>
+                </tr>
+            </tbody>
+        </table>
+        <div>
+            <div>
+                <label>您选择了<span id="itemCount"></span>种产品型号，共计<span id="numCount"></span>件</label>
+            </div>
+            <div>
+                <label>金额合计:<span id="mnyCount"></span></label>
+            </div>
+            <div>
+                <a href="#">去结算</a>
+            </div>
+        </div>
+    </div>
+    <script src="/js/shopcar.js"></script>
+</body>
+</html>

@@ -2,9 +2,16 @@ package com.self.wechat.menu;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.self.wechat.base.BaseApi;
+import com.self.wechat.base.BaseResult;
+import com.self.wechat.client.HttpClientExecutor;
 import com.self.wechat.util.HttpUtil;
+import org.apache.http.client.methods.HttpUriRequest;
+import org.apache.http.client.methods.RequestBuilder;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.util.StringUtils;
+
+import static com.self.wechat.client.HttpClientExecutor.executeJsonResult;
 
 
 /**
@@ -39,5 +46,56 @@ public class MenuApi extends BaseApi {
             }
         }
         return result;
+    }
+
+    /**
+     * 删除自定义菜单
+     *
+     * @param token
+     * @return
+     * @throws Exception
+     */
+    public static boolean deleteMenu(String token) throws Exception {
+        HttpUriRequest httpUriRequest = RequestBuilder.get()
+                .setUri(BASE_URL.concat("/cgi-bin/menu/delete"))
+                .addParameter("access_token", token)
+                .build();
+        BaseResult result = executeJsonResult(httpUriRequest, BaseResult.class);
+        if (!StringUtils.isEmpty(result) && result.getErrcode().equals("0")) {
+            return true;
+        } else {
+            logger.error("菜单删除失败：errcode：{} errmsg：{}", result.getErrcode(), result.getErrmsg());
+            return false;
+        }
+    }
+
+    /**
+     * 获取自定义菜单
+     *
+     * @param token
+     * @return
+     * @throws Exception
+     */
+    public static String getMenu(String token) throws Exception {
+        HttpUriRequest httpUriRequest = RequestBuilder.get()
+                .setUri(BASE_URL.concat("/cgi-bin/menu/get"))
+                .addParameter("access_token", token)
+                .build();
+        return HttpClientExecutor.executeJsonResult(httpUriRequest, String.class);
+    }
+
+    /**
+     * 获取自定义菜单配置接口
+     *
+     * @param token
+     * @return
+     * @throws Exception
+     */
+    public static String getMenuInfo(String token) throws Exception {
+        HttpUriRequest httpUriRequest = RequestBuilder.get()
+                .setUri(BASE_URL.concat("/cgi-bin/get_current_selfmenu_info"))
+                .addParameter("access_token", token)
+                .build();
+        return HttpClientExecutor.executeJsonResult(httpUriRequest, String.class);
     }
 }

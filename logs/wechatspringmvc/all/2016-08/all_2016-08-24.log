@@ -1,0 +1,220 @@
+2016-08-24 14:24:59,728 [main] INFO  com.self.wechat.menu.MenuManage - 创建菜单token>>>>>>>>>>>>>>>>>>WoQaaRIQVdYF-1IUM8H5BjzHB8fINMzvQrYVWcGSVMUW1VhNtCaMGG3ScFDsbFXYLZ8Bs2a9qdXXkfZE9iFxXzZqeuj0LOFglWjVjvHMgH5uhE7i6fTrHyT8qcptPQDdCNKiAAARCZ
+2016-08-24 14:25:00,051 [main] INFO  com.self.wechat.menu.MenuManage - 菜单创建成功！
+2016-08-24 14:30:39,538 [main] INFO  com.self.wechat.menu.MenuManage - 删除菜单token>>>>>>>>>>>>>>>>>>OzmByuEf7Evg7LiU7r06lTfnxyHTL5NywOJkLVsw7H8cHmYqEL6f686QX2EUXEtTngNxTrOZ62_-_BqkA-ZdBvkp9E3WOm_2m66YsrYrmwvlFetVTpMgCc1J6YTYketTZTKbAHAQKB
+2016-08-24 14:31:41,294 [main] INFO  com.self.wechat.menu.MenuManage - 创建菜单token>>>>>>>>>>>>>>>>>>Q2v2xwn9O8sVMPiTauC8YBQ1C7nCZiQ0d88k9dK1PIXjLaPYJK0GPYIv327NjjmVB1iAZLClr50jNlcfevoPr4GbIUdqn1YYBVCveLJfocYWnEEpMScBvBfZKAXnOwA6NDWeAFAUKD
+2016-08-24 14:31:41,589 [main] INFO  com.self.wechat.menu.MenuManage - 菜单创建成功！
+2016-08-24 14:32:35,907 [main] INFO  com.self.wechat.menu.MenuManage - 创建菜单token>>>>>>>>>>>>>>>>>>e_mdQd2wNFvHe4KYdRgAApYjYB2SaFyfGJ23qjsLadIYmNTHQKU4vP_4uKNYe_Mln3wlzhPo2xjM9dRT7wpUeHcOQZ5adV-DZJ_wQPXr-P8HSxxjwatfl2mo2hkZT4DqZMReAIAFSX
+2016-08-24 14:32:36,180 [main] INFO  com.self.wechat.menu.MenuManage - 菜单创建成功！
+2016-08-24 14:32:58,803 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>Il9bfrg6Ci9kr5Bv7AtNS3GPkQDfamp6cECiNWcdZs6pljBO7J0UIU-WjyqFl6qC3KZ0VpiOLGWfNNnOd7bQt3TKoqISatNXYp9np7Wn40br1Zb53sANBNo2A3riJqsEGQVgAFAZJO
+2016-08-24 14:33:04,356 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>Il9bfrg6Ci9kr5Bv7AtNS3GPkQDfamp6cECiNWcdZs6pljBO7J0UIU-WjyqFl6qC3KZ0VpiOLGWfNNnOd7bQt3TKoqISatNXYp9np7Wn40br1Zb53sANBNo2A3riJqsEGQVgAFAZJO
+2016-08-24 14:33:04,395 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>Il9bfrg6Ci9kr5Bv7AtNS3GPkQDfamp6cECiNWcdZs6pljBO7J0UIU-WjyqFl6qC3KZ0VpiOLGWfNNnOd7bQt3TKoqISatNXYp9np7Wn40br1Zb53sANBNo2A3riJqsEGQVgAFAZJO
+2016-08-24 14:33:37,334 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>Il9bfrg6Ci9kr5Bv7AtNS3GPkQDfamp6cECiNWcdZs6pljBO7J0UIU-WjyqFl6qC3KZ0VpiOLGWfNNnOd7bQt3TKoqISatNXYp9np7Wn40br1Zb53sANBNo2A3riJqsEGQVgAFAZJO
+2016-08-24 14:33:37,349 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>Il9bfrg6Ci9kr5Bv7AtNS3GPkQDfamp6cECiNWcdZs6pljBO7J0UIU-WjyqFl6qC3KZ0VpiOLGWfNNnOd7bQt3TKoqISatNXYp9np7Wn40br1Zb53sANBNo2A3riJqsEGQVgAFAZJO
+2016-08-24 14:33:38,156 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>Il9bfrg6Ci9kr5Bv7AtNS3GPkQDfamp6cECiNWcdZs6pljBO7J0UIU-WjyqFl6qC3KZ0VpiOLGWfNNnOd7bQt3TKoqISatNXYp9np7Wn40br1Zb53sANBNo2A3riJqsEGQVgAFAZJO
+2016-08-24 14:33:38,192 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>Il9bfrg6Ci9kr5Bv7AtNS3GPkQDfamp6cECiNWcdZs6pljBO7J0UIU-WjyqFl6qC3KZ0VpiOLGWfNNnOd7bQt3TKoqISatNXYp9np7Wn40br1Zb53sANBNo2A3riJqsEGQVgAFAZJO
+2016-08-24 14:33:38,206 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>Il9bfrg6Ci9kr5Bv7AtNS3GPkQDfamp6cECiNWcdZs6pljBO7J0UIU-WjyqFl6qC3KZ0VpiOLGWfNNnOd7bQt3TKoqISatNXYp9np7Wn40br1Zb53sANBNo2A3riJqsEGQVgAFAZJO
+2016-08-24 14:33:53,301 [main] INFO  com.self.wechat.menu.MenuManage - 创建菜单token>>>>>>>>>>>>>>>>>>Il9bfrg6Ci9kr5Bv7AtNS3GPkQDfamp6cECiNWcdZs6pljBO7J0UIU-WjyqFl6qC3KZ0VpiOLGWfNNnOd7bQt3TKoqISatNXYp9np7Wn40br1Zb53sANBNo2A3riJqsEGQVgAFAZJO
+2016-08-24 14:33:53,574 [main] INFO  com.self.wechat.menu.MenuManage - 菜单创建成功！
+2016-08-24 14:34:11,898 [main] INFO  com.self.wechat.menu.MenuManage - 创建菜单token>>>>>>>>>>>>>>>>>>Q2v2xwn9O8sVMPiTauC8YDqDUeCJYVzN-xKIFt7VpG3qDFajw7BhIzGxMyYE07qZpqvF3cpYkVsjCSjNzb5PxjCC1kKwuonPjSZaKcBq9bG5eLgsTeoZ0hBvNeRO88HvPXIeAHACKV
+2016-08-24 14:34:12,164 [main] INFO  com.self.wechat.menu.MenuManage - 菜单创建成功！
+2016-08-24 14:35:25,646 [main] INFO  com.self.wechat.token.TokenManage - token================null
+2016-08-24 14:35:25,670 [main] INFO  com.self.wechat.menu.MenuManage - 创建菜单token>>>>>>>>>>>>>>>>>>8hwIx7vjSCui9M8ECV-Oarcp15MtzcYOTYUGncaPIc0et62HPK8ohuPH3rne35AhnhTkNAjF9Awt141PsU-gC2NzsKG2OEm_NmjU0yMXe84abI780KwEf5pIwEffiH4uZLGbAJALXS
+2016-08-24 14:35:25,968 [main] INFO  com.self.wechat.menu.MenuManage - 菜单创建成功！
+2016-08-24 14:35:44,311 [main] INFO  com.self.wechat.token.TokenManage - token================null
+2016-08-24 14:35:44,354 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>8hwIx7vjSCui9M8ECV-Oarcp15MtzcYOTYUGncaPIc0A7EDc_4OWYiL2yX644lppkeH3lL4GfdqvUdMLZvlm7i-InMeFgUcCreaUSlkY45WL1-ZiDLAa1DA-CDpVrcBGNMSbAJABAG
+2016-08-24 14:35:51,642 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>8hwIx7vjSCui9M8ECV-Oarcp15MtzcYOTYUGncaPIc0A7EDc_4OWYiL2yX644lppkeH3lL4GfdqvUdMLZvlm7i-InMeFgUcCreaUSlkY45WL1-ZiDLAa1DA-CDpVrcBGNMSbAJABAG
+2016-08-24 14:35:51,661 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>8hwIx7vjSCui9M8ECV-Oarcp15MtzcYOTYUGncaPIc0A7EDc_4OWYiL2yX644lppkeH3lL4GfdqvUdMLZvlm7i-InMeFgUcCreaUSlkY45WL1-ZiDLAa1DA-CDpVrcBGNMSbAJABAG
+2016-08-24 14:35:53,979 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>8hwIx7vjSCui9M8ECV-Oarcp15MtzcYOTYUGncaPIc0A7EDc_4OWYiL2yX644lppkeH3lL4GfdqvUdMLZvlm7i-InMeFgUcCreaUSlkY45WL1-ZiDLAa1DA-CDpVrcBGNMSbAJABAG
+2016-08-24 14:35:53,993 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>8hwIx7vjSCui9M8ECV-Oarcp15MtzcYOTYUGncaPIc0A7EDc_4OWYiL2yX644lppkeH3lL4GfdqvUdMLZvlm7i-InMeFgUcCreaUSlkY45WL1-ZiDLAa1DA-CDpVrcBGNMSbAJABAG
+2016-08-24 14:35:57,300 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>8hwIx7vjSCui9M8ECV-Oarcp15MtzcYOTYUGncaPIc0A7EDc_4OWYiL2yX644lppkeH3lL4GfdqvUdMLZvlm7i-InMeFgUcCreaUSlkY45WL1-ZiDLAa1DA-CDpVrcBGNMSbAJABAG
+2016-08-24 14:35:57,333 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>8hwIx7vjSCui9M8ECV-Oarcp15MtzcYOTYUGncaPIc0A7EDc_4OWYiL2yX644lppkeH3lL4GfdqvUdMLZvlm7i-InMeFgUcCreaUSlkY45WL1-ZiDLAa1DA-CDpVrcBGNMSbAJABAG
+2016-08-24 14:35:57,347 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>8hwIx7vjSCui9M8ECV-Oarcp15MtzcYOTYUGncaPIc0A7EDc_4OWYiL2yX644lppkeH3lL4GfdqvUdMLZvlm7i-InMeFgUcCreaUSlkY45WL1-ZiDLAa1DA-CDpVrcBGNMSbAJABAG
+2016-08-24 14:35:57,651 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>8hwIx7vjSCui9M8ECV-Oarcp15MtzcYOTYUGncaPIc0A7EDc_4OWYiL2yX644lppkeH3lL4GfdqvUdMLZvlm7i-InMeFgUcCreaUSlkY45WL1-ZiDLAa1DA-CDpVrcBGNMSbAJABAG
+2016-08-24 14:35:57,660 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>8hwIx7vjSCui9M8ECV-Oarcp15MtzcYOTYUGncaPIc0A7EDc_4OWYiL2yX644lppkeH3lL4GfdqvUdMLZvlm7i-InMeFgUcCreaUSlkY45WL1-ZiDLAa1DA-CDpVrcBGNMSbAJABAG
+2016-08-24 14:35:58,490 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>8hwIx7vjSCui9M8ECV-Oarcp15MtzcYOTYUGncaPIc0A7EDc_4OWYiL2yX644lppkeH3lL4GfdqvUdMLZvlm7i-InMeFgUcCreaUSlkY45WL1-ZiDLAa1DA-CDpVrcBGNMSbAJABAG
+2016-08-24 14:35:58,518 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>8hwIx7vjSCui9M8ECV-Oarcp15MtzcYOTYUGncaPIc0A7EDc_4OWYiL2yX644lppkeH3lL4GfdqvUdMLZvlm7i-InMeFgUcCreaUSlkY45WL1-ZiDLAa1DA-CDpVrcBGNMSbAJABAG
+2016-08-24 14:35:58,804 [main] INFO  com.self.wechat.menu.MenuManage - 创建菜单token>>>>>>>>>>>>>>>>>>8hwIx7vjSCui9M8ECV-Oarcp15MtzcYOTYUGncaPIc0A7EDc_4OWYiL2yX644lppkeH3lL4GfdqvUdMLZvlm7i-InMeFgUcCreaUSlkY45WL1-ZiDLAa1DA-CDpVrcBGNMSbAJABAG
+2016-08-24 14:35:58,847 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>8hwIx7vjSCui9M8ECV-Oarcp15MtzcYOTYUGncaPIc0A7EDc_4OWYiL2yX644lppkeH3lL4GfdqvUdMLZvlm7i-InMeFgUcCreaUSlkY45WL1-ZiDLAa1DA-CDpVrcBGNMSbAJABAG
+2016-08-24 14:35:58,867 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>8hwIx7vjSCui9M8ECV-Oarcp15MtzcYOTYUGncaPIc0A7EDc_4OWYiL2yX644lppkeH3lL4GfdqvUdMLZvlm7i-InMeFgUcCreaUSlkY45WL1-ZiDLAa1DA-CDpVrcBGNMSbAJABAG
+2016-08-24 14:35:59,498 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>8hwIx7vjSCui9M8ECV-Oarcp15MtzcYOTYUGncaPIc0A7EDc_4OWYiL2yX644lppkeH3lL4GfdqvUdMLZvlm7i-InMeFgUcCreaUSlkY45WL1-ZiDLAa1DA-CDpVrcBGNMSbAJABAG
+2016-08-24 14:35:59,512 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>8hwIx7vjSCui9M8ECV-Oarcp15MtzcYOTYUGncaPIc0A7EDc_4OWYiL2yX644lppkeH3lL4GfdqvUdMLZvlm7i-InMeFgUcCreaUSlkY45WL1-ZiDLAa1DA-CDpVrcBGNMSbAJABAG
+2016-08-24 14:35:59,962 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>8hwIx7vjSCui9M8ECV-Oarcp15MtzcYOTYUGncaPIc0A7EDc_4OWYiL2yX644lppkeH3lL4GfdqvUdMLZvlm7i-InMeFgUcCreaUSlkY45WL1-ZiDLAa1DA-CDpVrcBGNMSbAJABAG
+2016-08-24 14:35:59,990 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>8hwIx7vjSCui9M8ECV-Oarcp15MtzcYOTYUGncaPIc0A7EDc_4OWYiL2yX644lppkeH3lL4GfdqvUdMLZvlm7i-InMeFgUcCreaUSlkY45WL1-ZiDLAa1DA-CDpVrcBGNMSbAJABAG
+2016-08-24 14:36:00,203 [main] INFO  com.self.wechat.menu.MenuManage - 菜单创建成功！
+2016-08-24 14:36:00,241 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>8hwIx7vjSCui9M8ECV-Oarcp15MtzcYOTYUGncaPIc0A7EDc_4OWYiL2yX644lppkeH3lL4GfdqvUdMLZvlm7i-InMeFgUcCreaUSlkY45WL1-ZiDLAa1DA-CDpVrcBGNMSbAJABAG
+2016-08-24 14:36:00,255 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>8hwIx7vjSCui9M8ECV-Oarcp15MtzcYOTYUGncaPIc0A7EDc_4OWYiL2yX644lppkeH3lL4GfdqvUdMLZvlm7i-InMeFgUcCreaUSlkY45WL1-ZiDLAa1DA-CDpVrcBGNMSbAJABAG
+2016-08-24 14:36:14,954 [main] INFO  com.self.wechat.token.TokenManage - token================null
+2016-08-24 14:36:14,972 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>tIbWot30oKy2wOlMdXu3l31RvEISws3tYT05-sjcpZ5HSvCaLDOMmOYeYL8lZH1qjb3P7oUcU-6M8cMp1eQll03TlaPqoH2Pj70SbYVMMI3vfdSG7PuBVYc8THStYn8kODUdAFAZOF
+2016-08-24 14:36:14,984 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>tIbWot30oKy2wOlMdXu3l31RvEISws3tYT05-sjcpZ5HSvCaLDOMmOYeYL8lZH1qjb3P7oUcU-6M8cMp1eQll03TlaPqoH2Pj70SbYVMMI3vfdSG7PuBVYc8THStYn8kODUdAFAZOF
+2016-08-24 14:36:17,173 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>tIbWot30oKy2wOlMdXu3l31RvEISws3tYT05-sjcpZ5HSvCaLDOMmOYeYL8lZH1qjb3P7oUcU-6M8cMp1eQll03TlaPqoH2Pj70SbYVMMI3vfdSG7PuBVYc8THStYn8kODUdAFAZOF
+2016-08-24 14:36:17,195 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>tIbWot30oKy2wOlMdXu3l31RvEISws3tYT05-sjcpZ5HSvCaLDOMmOYeYL8lZH1qjb3P7oUcU-6M8cMp1eQll03TlaPqoH2Pj70SbYVMMI3vfdSG7PuBVYc8THStYn8kODUdAFAZOF
+2016-08-24 14:36:17,616 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>tIbWot30oKy2wOlMdXu3l31RvEISws3tYT05-sjcpZ5HSvCaLDOMmOYeYL8lZH1qjb3P7oUcU-6M8cMp1eQll03TlaPqoH2Pj70SbYVMMI3vfdSG7PuBVYc8THStYn8kODUdAFAZOF
+2016-08-24 14:36:17,626 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>tIbWot30oKy2wOlMdXu3l31RvEISws3tYT05-sjcpZ5HSvCaLDOMmOYeYL8lZH1qjb3P7oUcU-6M8cMp1eQll03TlaPqoH2Pj70SbYVMMI3vfdSG7PuBVYc8THStYn8kODUdAFAZOF
+2016-08-24 14:36:17,887 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>tIbWot30oKy2wOlMdXu3l31RvEISws3tYT05-sjcpZ5HSvCaLDOMmOYeYL8lZH1qjb3P7oUcU-6M8cMp1eQll03TlaPqoH2Pj70SbYVMMI3vfdSG7PuBVYc8THStYn8kODUdAFAZOF
+2016-08-24 14:36:17,925 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>tIbWot30oKy2wOlMdXu3l31RvEISws3tYT05-sjcpZ5HSvCaLDOMmOYeYL8lZH1qjb3P7oUcU-6M8cMp1eQll03TlaPqoH2Pj70SbYVMMI3vfdSG7PuBVYc8THStYn8kODUdAFAZOF
+2016-08-24 14:36:17,939 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>tIbWot30oKy2wOlMdXu3l31RvEISws3tYT05-sjcpZ5HSvCaLDOMmOYeYL8lZH1qjb3P7oUcU-6M8cMp1eQll03TlaPqoH2Pj70SbYVMMI3vfdSG7PuBVYc8THStYn8kODUdAFAZOF
+2016-08-24 14:36:18,259 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>tIbWot30oKy2wOlMdXu3l31RvEISws3tYT05-sjcpZ5HSvCaLDOMmOYeYL8lZH1qjb3P7oUcU-6M8cMp1eQll03TlaPqoH2Pj70SbYVMMI3vfdSG7PuBVYc8THStYn8kODUdAFAZOF
+2016-08-24 14:36:18,274 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>tIbWot30oKy2wOlMdXu3l31RvEISws3tYT05-sjcpZ5HSvCaLDOMmOYeYL8lZH1qjb3P7oUcU-6M8cMp1eQll03TlaPqoH2Pj70SbYVMMI3vfdSG7PuBVYc8THStYn8kODUdAFAZOF
+2016-08-24 14:36:18,624 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>tIbWot30oKy2wOlMdXu3l31RvEISws3tYT05-sjcpZ5HSvCaLDOMmOYeYL8lZH1qjb3P7oUcU-6M8cMp1eQll03TlaPqoH2Pj70SbYVMMI3vfdSG7PuBVYc8THStYn8kODUdAFAZOF
+2016-08-24 14:36:18,635 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>tIbWot30oKy2wOlMdXu3l31RvEISws3tYT05-sjcpZ5HSvCaLDOMmOYeYL8lZH1qjb3P7oUcU-6M8cMp1eQll03TlaPqoH2Pj70SbYVMMI3vfdSG7PuBVYc8THStYn8kODUdAFAZOF
+2016-08-24 14:36:18,857 [main] INFO  com.self.wechat.menu.MenuManage - 创建菜单token>>>>>>>>>>>>>>>>>>tIbWot30oKy2wOlMdXu3l31RvEISws3tYT05-sjcpZ5HSvCaLDOMmOYeYL8lZH1qjb3P7oUcU-6M8cMp1eQll03TlaPqoH2Pj70SbYVMMI3vfdSG7PuBVYc8THStYn8kODUdAFAZOF
+2016-08-24 14:36:18,904 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>tIbWot30oKy2wOlMdXu3l31RvEISws3tYT05-sjcpZ5HSvCaLDOMmOYeYL8lZH1qjb3P7oUcU-6M8cMp1eQll03TlaPqoH2Pj70SbYVMMI3vfdSG7PuBVYc8THStYn8kODUdAFAZOF
+2016-08-24 14:36:18,918 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>tIbWot30oKy2wOlMdXu3l31RvEISws3tYT05-sjcpZ5HSvCaLDOMmOYeYL8lZH1qjb3P7oUcU-6M8cMp1eQll03TlaPqoH2Pj70SbYVMMI3vfdSG7PuBVYc8THStYn8kODUdAFAZOF
+2016-08-24 14:36:19,481 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>tIbWot30oKy2wOlMdXu3l31RvEISws3tYT05-sjcpZ5HSvCaLDOMmOYeYL8lZH1qjb3P7oUcU-6M8cMp1eQll03TlaPqoH2Pj70SbYVMMI3vfdSG7PuBVYc8THStYn8kODUdAFAZOF
+2016-08-24 14:36:19,504 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>tIbWot30oKy2wOlMdXu3l31RvEISws3tYT05-sjcpZ5HSvCaLDOMmOYeYL8lZH1qjb3P7oUcU-6M8cMp1eQll03TlaPqoH2Pj70SbYVMMI3vfdSG7PuBVYc8THStYn8kODUdAFAZOF
+2016-08-24 14:36:19,545 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>tIbWot30oKy2wOlMdXu3l31RvEISws3tYT05-sjcpZ5HSvCaLDOMmOYeYL8lZH1qjb3P7oUcU-6M8cMp1eQll03TlaPqoH2Pj70SbYVMMI3vfdSG7PuBVYc8THStYn8kODUdAFAZOF
+2016-08-24 14:36:19,559 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>tIbWot30oKy2wOlMdXu3l31RvEISws3tYT05-sjcpZ5HSvCaLDOMmOYeYL8lZH1qjb3P7oUcU-6M8cMp1eQll03TlaPqoH2Pj70SbYVMMI3vfdSG7PuBVYc8THStYn8kODUdAFAZOF
+2016-08-24 14:36:19,755 [main] INFO  com.self.wechat.menu.MenuManage - 菜单创建成功！
+2016-08-24 14:36:44,721 [main] INFO  com.self.wechat.token.TokenManage - token================null
+2016-08-24 14:36:44,739 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>-sMJrl8FjLTyLf_pOYCHoMqQXzTHiBWTrmSCj8CXN_8QesvGrAubfriJJ4Vx-PM97Veu33znTKVo30LHqSCaE6MeYP9-1XBghR3V8KWt_vznwoO3X2zKJN54D3Xifu0SBIJjAFATAB
+2016-08-24 14:36:44,758 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>-sMJrl8FjLTyLf_pOYCHoMqQXzTHiBWTrmSCj8CXN_8QesvGrAubfriJJ4Vx-PM97Veu33znTKVo30LHqSCaE6MeYP9-1XBghR3V8KWt_vznwoO3X2zKJN54D3Xifu0SBIJjAFATAB
+2016-08-24 14:36:57,870 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>-sMJrl8FjLTyLf_pOYCHoMqQXzTHiBWTrmSCj8CXN_8QesvGrAubfriJJ4Vx-PM97Veu33znTKVo30LHqSCaE6MeYP9-1XBghR3V8KWt_vznwoO3X2zKJN54D3Xifu0SBIJjAFATAB
+2016-08-24 14:36:57,870 [main] INFO  com.self.wechat.menu.MenuManage - 创建菜单token>>>>>>>>>>>>>>>>>>-sMJrl8FjLTyLf_pOYCHoMqQXzTHiBWTrmSCj8CXN_8QesvGrAubfriJJ4Vx-PM97Veu33znTKVo30LHqSCaE6MeYP9-1XBghR3V8KWt_vznwoO3X2zKJN54D3Xifu0SBIJjAFATAB
+2016-08-24 14:36:58,137 [main] INFO  com.self.wechat.menu.MenuManage - 菜单创建成功！
+2016-08-24 14:37:32,052 [main] INFO  com.self.wechat.token.TokenManage - token================null
+2016-08-24 14:37:32,062 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>IpaUCBXgkrvAef8iE_qzd-N9Qe8PvMZ__aFqrE3VFiLzXR5HhgUXKV0elDRJIH5Bf4erUaSNtGRnYNrjFrxbhyJQJKKdRqDLbai7lX8H8vMeg6bls54oDBHfmvT3r23gGQZjAEAVFO
+2016-08-24 14:37:32,069 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>IpaUCBXgkrvAef8iE_qzd-N9Qe8PvMZ__aFqrE3VFiLzXR5HhgUXKV0elDRJIH5Bf4erUaSNtGRnYNrjFrxbhyJQJKKdRqDLbai7lX8H8vMeg6bls54oDBHfmvT3r23gGQZjAEAVFO
+2016-08-24 14:37:33,528 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>IpaUCBXgkrvAef8iE_qzd-N9Qe8PvMZ__aFqrE3VFiLzXR5HhgUXKV0elDRJIH5Bf4erUaSNtGRnYNrjFrxbhyJQJKKdRqDLbai7lX8H8vMeg6bls54oDBHfmvT3r23gGQZjAEAVFO
+2016-08-24 14:37:33,540 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>IpaUCBXgkrvAef8iE_qzd-N9Qe8PvMZ__aFqrE3VFiLzXR5HhgUXKV0elDRJIH5Bf4erUaSNtGRnYNrjFrxbhyJQJKKdRqDLbai7lX8H8vMeg6bls54oDBHfmvT3r23gGQZjAEAVFO
+2016-08-24 14:37:34,402 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>IpaUCBXgkrvAef8iE_qzd-N9Qe8PvMZ__aFqrE3VFiLzXR5HhgUXKV0elDRJIH5Bf4erUaSNtGRnYNrjFrxbhyJQJKKdRqDLbai7lX8H8vMeg6bls54oDBHfmvT3r23gGQZjAEAVFO
+2016-08-24 14:37:34,410 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>IpaUCBXgkrvAef8iE_qzd-N9Qe8PvMZ__aFqrE3VFiLzXR5HhgUXKV0elDRJIH5Bf4erUaSNtGRnYNrjFrxbhyJQJKKdRqDLbai7lX8H8vMeg6bls54oDBHfmvT3r23gGQZjAEAVFO
+2016-08-24 14:37:34,869 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>IpaUCBXgkrvAef8iE_qzd-N9Qe8PvMZ__aFqrE3VFiLzXR5HhgUXKV0elDRJIH5Bf4erUaSNtGRnYNrjFrxbhyJQJKKdRqDLbai7lX8H8vMeg6bls54oDBHfmvT3r23gGQZjAEAVFO
+2016-08-24 14:37:34,879 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>IpaUCBXgkrvAef8iE_qzd-N9Qe8PvMZ__aFqrE3VFiLzXR5HhgUXKV0elDRJIH5Bf4erUaSNtGRnYNrjFrxbhyJQJKKdRqDLbai7lX8H8vMeg6bls54oDBHfmvT3r23gGQZjAEAVFO
+2016-08-24 14:37:36,341 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>IpaUCBXgkrvAef8iE_qzd-N9Qe8PvMZ__aFqrE3VFiLzXR5HhgUXKV0elDRJIH5Bf4erUaSNtGRnYNrjFrxbhyJQJKKdRqDLbai7lX8H8vMeg6bls54oDBHfmvT3r23gGQZjAEAVFO
+2016-08-24 14:37:36,350 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>IpaUCBXgkrvAef8iE_qzd-N9Qe8PvMZ__aFqrE3VFiLzXR5HhgUXKV0elDRJIH5Bf4erUaSNtGRnYNrjFrxbhyJQJKKdRqDLbai7lX8H8vMeg6bls54oDBHfmvT3r23gGQZjAEAVFO
+2016-08-24 14:37:39,800 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>IpaUCBXgkrvAef8iE_qzd-N9Qe8PvMZ__aFqrE3VFiLzXR5HhgUXKV0elDRJIH5Bf4erUaSNtGRnYNrjFrxbhyJQJKKdRqDLbai7lX8H8vMeg6bls54oDBHfmvT3r23gGQZjAEAVFO
+2016-08-24 14:37:39,811 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>IpaUCBXgkrvAef8iE_qzd-N9Qe8PvMZ__aFqrE3VFiLzXR5HhgUXKV0elDRJIH5Bf4erUaSNtGRnYNrjFrxbhyJQJKKdRqDLbai7lX8H8vMeg6bls54oDBHfmvT3r23gGQZjAEAVFO
+2016-08-24 14:38:38,439 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>IpaUCBXgkrvAef8iE_qzd-N9Qe8PvMZ__aFqrE3VFiLzXR5HhgUXKV0elDRJIH5Bf4erUaSNtGRnYNrjFrxbhyJQJKKdRqDLbai7lX8H8vMeg6bls54oDBHfmvT3r23gGQZjAEAVFO
+2016-08-24 14:38:38,440 [main] INFO  com.self.wechat.menu.MenuManage - 创建菜单token>>>>>>>>>>>>>>>>>>IpaUCBXgkrvAef8iE_qzd-N9Qe8PvMZ__aFqrE3VFiLzXR5HhgUXKV0elDRJIH5Bf4erUaSNtGRnYNrjFrxbhyJQJKKdRqDLbai7lX8H8vMeg6bls54oDBHfmvT3r23gGQZjAEAVFO
+2016-08-24 14:38:38,725 [main] INFO  com.self.wechat.menu.MenuManage - 菜单创建成功！
+2016-08-24 14:38:54,431 [main] INFO  com.self.wechat.token.TokenManage - token================null
+2016-08-24 14:38:54,456 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>DRl__k621-JaLlrD37B0p0yZLbEKmH2k-juiN9uvIDXKeCOOycWOu8xDJak7WKRb6-b6jp450ea1YZHJHSbVZB-DEj5aPHi2P7cQ6SE_BiFWH5c1RsYzZa0w98tFnleUKOCcAAANRF
+2016-08-24 14:38:54,478 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>DRl__k621-JaLlrD37B0p0yZLbEKmH2k-juiN9uvIDXKeCOOycWOu8xDJak7WKRb6-b6jp450ea1YZHJHSbVZB-DEj5aPHi2P7cQ6SE_BiFWH5c1RsYzZa0w98tFnleUKOCcAAANRF
+2016-08-24 14:39:22,035 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>DRl__k621-JaLlrD37B0p0yZLbEKmH2k-juiN9uvIDXKeCOOycWOu8xDJak7WKRb6-b6jp450ea1YZHJHSbVZB-DEj5aPHi2P7cQ6SE_BiFWH5c1RsYzZa0w98tFnleUKOCcAAANRF
+2016-08-24 14:39:22,035 [main] INFO  com.self.wechat.menu.MenuManage - 创建菜单token>>>>>>>>>>>>>>>>>>DRl__k621-JaLlrD37B0p0yZLbEKmH2k-juiN9uvIDXKeCOOycWOu8xDJak7WKRb6-b6jp450ea1YZHJHSbVZB-DEj5aPHi2P7cQ6SE_BiFWH5c1RsYzZa0w98tFnleUKOCcAAANRF
+2016-08-24 14:39:35,634 [main] INFO  com.self.wechat.token.TokenManage - token================null
+2016-08-24 14:39:35,653 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>4uLtLO6XLKTPy88fv_HI_wNgQMCGZsd5BCdzN3apAripgXZeGlRB9AgQqBrJTqUZnOZXBIpEEBFEsduckmhNjUgMmbuBig5gStLJng4bGgtQU9XTVgQ-ghiHSr7ETdxyYJYgABARCR
+2016-08-24 14:39:35,722 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>4uLtLO6XLKTPy88fv_HI_wNgQMCGZsd5BCdzN3apAripgXZeGlRB9AgQqBrJTqUZnOZXBIpEEBFEsduckmhNjUgMmbuBig5gStLJng4bGgtQU9XTVgQ-ghiHSr7ETdxyYJYgABARCR
+2016-08-24 15:06:26,111 [main] INFO  com.self.wechat.token.TokenManage - token================null 获取token
+2016-08-24 15:06:26,126 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>VXuma2dY5x7VTwrEyi5ka6KBrSK1I93y1lUHZKtjpGaieSm05x6EIQH3giY2Nl6Xt_bIET-U1ovcqsi9nngKVxFxWC49ky3Xx2mhj9SvaBcyS_apR40J7gb0fZpPR9gACGWjADAQUK
+2016-08-24 15:06:26,132 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>VXuma2dY5x7VTwrEyi5ka6KBrSK1I93y1lUHZKtjpGaieSm05x6EIQH3giY2Nl6Xt_bIET-U1ovcqsi9nngKVxFxWC49ky3Xx2mhj9SvaBcyS_apR40J7gb0fZpPR9gACGWjADAQUK
+2016-08-24 15:06:40,669 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>VXuma2dY5x7VTwrEyi5ka6KBrSK1I93y1lUHZKtjpGaieSm05x6EIQH3giY2Nl6Xt_bIET-U1ovcqsi9nngKVxFxWC49ky3Xx2mhj9SvaBcyS_apR40J7gb0fZpPR9gACGWjADAQUK
+2016-08-24 15:06:40,669 [main] INFO  com.self.wechat.menu.MenuManage - 创建菜单token>>>>>>>>>>>>>>>>>>VXuma2dY5x7VTwrEyi5ka6KBrSK1I93y1lUHZKtjpGaieSm05x6EIQH3giY2Nl6Xt_bIET-U1ovcqsi9nngKVxFxWC49ky3Xx2mhj9SvaBcyS_apR40J7gb0fZpPR9gACGWjADAQUK
+2016-08-24 15:06:41,035 [main] INFO  com.self.wechat.menu.MenuManage - 菜单创建成功！
+2016-08-24 15:06:47,749 [main] INFO  com.self.wechat.token.TokenManage - token================null 获取token
+2016-08-24 15:06:47,758 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>3_ICjItdQn-auJBkOOw8Xqol5vBsctdwpwgtDn3xdt-fbwpPP6Bxb5NxfoBUoLuKanvYvF5GelBzMkBPaMYhEHtHBN8mE2X7DpNTm_JUnStwLZrcU6nahYd9xV5t3ce2MSVaAFAEKN
+2016-08-24 15:06:47,764 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>3_ICjItdQn-auJBkOOw8Xqol5vBsctdwpwgtDn3xdt-fbwpPP6Bxb5NxfoBUoLuKanvYvF5GelBzMkBPaMYhEHtHBN8mE2X7DpNTm_JUnStwLZrcU6nahYd9xV5t3ce2MSVaAFAEKN
+2016-08-24 15:07:22,089 [main] INFO  com.self.wechat.token.TokenManage - token================null 获取token
+2016-08-24 15:07:25,943 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>dav-UlJl0w0cUCHNEs0cVifOwvoar-m6uMfSjx44mejOk7AMYxdchZeTEhqkKLqanf0TiblOhGvTd2pf7Hu0DaOZgLfApCwyAPZDjwxF3em06LGW3JEcyKxJV43wpez0EHYgAIAKNE
+2016-08-24 15:07:25,952 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>dav-UlJl0w0cUCHNEs0cVifOwvoar-m6uMfSjx44mejOk7AMYxdchZeTEhqkKLqanf0TiblOhGvTd2pf7Hu0DaOZgLfApCwyAPZDjwxF3em06LGW3JEcyKxJV43wpez0EHYgAIAKNE
+2016-08-24 15:29:41,642 [main] INFO  com.self.wechat.token.TokenManage - 真的进来了======================
+2016-08-24 15:29:42,988 [main] INFO  com.self.wechat.token.TokenManage - token================null 获取token
+2016-08-24 15:29:43,031 [main] INFO  com.self.wechat.token.TokenManage - 真的进来了======================
+2016-08-24 15:29:43,033 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>Jj-VgBvKWGEUFQ7fOQw9iMf1_Afw-b4wcyz1T24ClyWb5kDUB6Uv5T0OF8CHrLwM41vmSJGJ8lrZRe7sxqhxSxcwlxb0lq5iBj8ForJT7NTSuTlZ5ETfdNYTRPwG3piHPVXgAAADJL
+2016-08-24 15:29:43,070 [main] INFO  com.self.wechat.token.TokenManage - 真的进来了======================
+2016-08-24 15:29:43,081 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>Jj-VgBvKWGEUFQ7fOQw9iMf1_Afw-b4wcyz1T24ClyWb5kDUB6Uv5T0OF8CHrLwM41vmSJGJ8lrZRe7sxqhxSxcwlxb0lq5iBj8ForJT7NTSuTlZ5ETfdNYTRPwG3piHPVXgAAADJL
+2016-08-24 15:30:47,421 [main] INFO  com.self.wechat.menu.MenuManage - 什么都没干
+2016-08-24 15:30:58,125 [main] INFO  com.self.wechat.menu.MenuManage - 什么都没干
+2016-08-24 15:31:07,054 [main] INFO  com.self.wechat.menu.MenuManage - 什么都没干
+2016-08-24 15:31:32,851 [main] INFO  com.self.wechat.token.TokenManage - 真的进来了======================
+2016-08-24 15:31:34,259 [main] INFO  com.self.wechat.token.TokenManage - token================null 获取token
+2016-08-24 15:31:34,268 [main] INFO  com.self.wechat.token.TokenManage - 真的进来了======================
+2016-08-24 15:31:34,269 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>gSauSEHmEHq4NlnNvHNKgSV2Zubj6akuGKGSjD_HutEeS-FugKqrBSkEd3r4Q3YAr0zEL78qsuVy27Pz4-ab6u_5K0uNbkx-znr9ivrvAFkNhB3viiUI3pI7ZcMUqufbIBNjAIAYRD
+2016-08-24 15:31:34,276 [main] INFO  com.self.wechat.token.TokenManage - 真的进来了======================
+2016-08-24 15:31:34,277 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>gSauSEHmEHq4NlnNvHNKgSV2Zubj6akuGKGSjD_HutEeS-FugKqrBSkEd3r4Q3YAr0zEL78qsuVy27Pz4-ab6u_5K0uNbkx-znr9ivrvAFkNhB3viiUI3pI7ZcMUqufbIBNjAIAYRD
+2016-08-24 15:34:41,950 [main] INFO  com.self.wechat.token.TokenManage - 真的进来了======================
+2016-08-24 15:34:43,264 [main] INFO  com.self.wechat.token.TokenManage - token================null 获取token
+2016-08-24 15:34:43,271 [main] INFO  com.self.wechat.token.TokenManage - 真的进来了======================
+2016-08-24 15:34:43,272 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>p86DzTD_v0PUuann0i1mLlMcjCS0SQMwrXkhvoaa37ULAjzxz2bYlx8V5jpKkoo1LCna065R1Z7COBeqKNAjcwV5Asipjn1vpjGiG0EsjdctfCvi_mmnQBOpgmQ6xj68AJGbAJASBY
+2016-08-24 15:34:43,276 [main] INFO  com.self.wechat.token.TokenManage - 真的进来了======================
+2016-08-24 15:34:43,278 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>p86DzTD_v0PUuann0i1mLlMcjCS0SQMwrXkhvoaa37ULAjzxz2bYlx8V5jpKkoo1LCna065R1Z7COBeqKNAjcwV5Asipjn1vpjGiG0EsjdctfCvi_mmnQBOpgmQ6xj68AJGbAJASBY
+2016-08-24 16:00:40,562 [main] INFO  com.self.wechat.menu.MenuManage - 什么都没干
+2016-08-24 16:02:44,508 [main] INFO  com.self.wechat.menu.MenuManage - 什么都没干
+2016-08-24 16:02:52,302 [main] INFO  com.self.wechat.menu.MenuManage - 什么都没干
+2016-08-24 16:02:52,582 [main] INFO  com.self.wechat.token.TokenManage - 真的进来了======================
+2016-08-24 16:02:52,582 [main] INFO  com.self.wechat.token.TokenManage - 又来一次
+2016-08-24 16:02:52,582 [main] INFO  com.self.wechat.token.TokenManage - token================null 获取token
+2016-08-24 16:03:32,832 [main] INFO  com.self.wechat.menu.MenuManage - 什么都没干
+2016-08-24 16:03:33,116 [main] INFO  com.self.wechat.token.TokenManage - 真的进来了======================
+2016-08-24 16:03:33,116 [main] INFO  com.self.wechat.token.TokenManage - 又来一次
+2016-08-24 16:03:33,116 [main] INFO  com.self.wechat.token.TokenManage - token================null 获取token
+2016-08-24 16:03:43,780 [main] INFO  com.self.wechat.menu.MenuManage - 什么都没干
+2016-08-24 16:03:44,046 [main] INFO  com.self.wechat.token.TokenManage - 真的进来了======================
+2016-08-24 16:03:44,047 [main] INFO  com.self.wechat.token.TokenManage - 又来一次
+2016-08-24 16:03:44,047 [main] INFO  com.self.wechat.token.TokenManage - token================null 获取token
+2016-08-24 16:04:39,484 [main] INFO  com.self.wechat.menu.MenuManage - 什么都没干
+2016-08-24 16:04:39,765 [main] INFO  com.self.wechat.token.TokenManage - 真的进来了======================
+2016-08-24 16:05:02,822 [main] INFO  com.self.wechat.menu.MenuManage - 什么都没干
+2016-08-24 16:05:03,117 [main] INFO  com.self.wechat.token.TokenManage - 真的进来了======================
+2016-08-24 16:05:03,118 [main] INFO  com.self.wechat.token.TokenManage - 又来一次
+2016-08-24 16:05:03,118 [main] INFO  com.self.wechat.token.TokenManage - token================null 获取token
+2016-08-24 16:06:32,989 [main] INFO  com.self.wechat.token.TokenManage - 真的进来了======================
+2016-08-24 16:06:32,994 [main] INFO  com.self.wechat.token.TokenManage - 又来一次
+2016-08-24 16:06:32,994 [main] INFO  com.self.wechat.token.TokenManage - token================null 获取token
+2016-08-24 16:06:32,999 [main] INFO  com.self.wechat.token.TokenManage - 真的进来了======================
+2016-08-24 16:06:33,000 [main] INFO  com.self.wechat.token.TokenManage - 又来一次
+2016-08-24 16:06:33,000 [main] INFO  com.self.wechat.token.TokenManage - token================null 获取token
+2016-08-24 16:06:33,008 [main] INFO  com.self.wechat.token.TokenManage - 真的进来了======================
+2016-08-24 16:06:33,009 [main] INFO  com.self.wechat.token.TokenManage - 又来一次
+2016-08-24 16:06:33,009 [main] INFO  com.self.wechat.token.TokenManage - token================null 获取token
+2016-08-24 16:06:38,677 [main] INFO  com.self.wechat.menu.MenuManage - 什么都没干
+2016-08-24 16:06:54,919 [main] INFO  com.self.wechat.token.TokenManage - 真的进来了======================
+2016-08-24 16:06:54,925 [main] INFO  com.self.wechat.token.TokenManage - 又来一次
+2016-08-24 16:06:56,562 [main] INFO  com.self.wechat.token.TokenManage - token================null 获取token
+2016-08-24 16:06:56,570 [main] INFO  com.self.wechat.token.TokenManage - 真的进来了======================
+2016-08-24 16:06:56,571 [main] INFO  com.self.wechat.token.TokenManage - 缓存的token>>>>>>>>>>>WxkLF4z_PnTosKxDydKWxpy2GFwwPMyfjiYmzZHBkQXB8QAd72mGwt3kkXlZfn0WfY_Fz5Qo5Pq_buWIjRt_IjUPN3g7DdKK826rmqnaNQEINWvk3geOI-bCkdRJ8PDIAXAgAEAFCF
+2016-08-24 16:07:11,729 [main] INFO  com.self.wechat.menu.MenuManage - 什么都没干
+2016-08-24 16:07:17,192 [main] INFO  com.self.wechat.menu.MenuManage - 什么都没干
+2016-08-24 16:07:17,475 [main] INFO  com.self.wechat.token.TokenManage - 真的进来了======================
+2016-08-24 16:07:17,475 [main] INFO  com.self.wechat.token.TokenManage - 又来一次
+2016-08-24 16:08:49,917 [main] INFO  com.self.wechat.menu.MenuManage - 什么都没干
+2016-08-24 16:08:49,917 [main] INFO  com.self.wechat.menu.MenuManage - 现在的tokenToken{access_token='p86DzTD_v0PUuann0i1mLlMcjCS0SQMwrXkhvoaa37ULAjzxz2bYlx8V5jpKkoo1LCna065R1Z7COBeqKNAjcwV5Asipjn1vpjGiG0EsjdctfCvi_mmnQBOpgmQ6xj68AJGbAJASBY', expires_in=1472031083264}
+2016-08-24 16:08:52,792 [main] INFO  com.self.wechat.menu.MenuManage - 什么都没干
+2016-08-24 16:09:00,067 [main] INFO  com.self.wechat.menu.MenuManage - 什么都没干
+2016-08-24 16:09:00,332 [main] INFO  com.self.wechat.token.TokenManage - 真的进来了======================
+2016-08-24 16:09:00,332 [main] INFO  com.self.wechat.token.TokenManage - 又来一次
+2016-08-24 16:09:01,358 [main] INFO  com.self.wechat.token.TokenManage - token================null 获取token
+2016-08-24 16:09:05,867 [main] INFO  com.self.wechat.menu.MenuManage - 什么都没干
+2016-08-24 16:09:06,133 [main] INFO  com.self.wechat.token.TokenManage - 真的进来了======================
+2016-08-24 16:09:06,133 [main] INFO  com.self.wechat.token.TokenManage - 又来一次
+2016-08-24 16:09:07,036 [main] INFO  com.self.wechat.token.TokenManage - token================null 获取token
+2016-08-24 16:09:44,551 [main] INFO  com.self.wechat.menu.MenuManage - 什么都没干
+2016-08-24 16:09:44,830 [main] INFO  com.self.wechat.token.TokenManage - 真的进来了======================
+2016-08-24 16:09:44,830 [main] INFO  com.self.wechat.token.TokenManage - 又来一次
+2016-08-24 16:09:45,788 [main] INFO  com.self.wechat.token.TokenManage - token================null 获取token
+2016-08-24 16:09:45,788 [main] INFO  com.self.wechat.menu.MenuManage - 创建菜单token>>>>>>>>>>>>>>>>>>sByFYyiQv3QuM5v7m0XrdYkneqvlsynSxYt0OD698a1cWt90z2gj18-vqmT9NPHeVPuyasbjVUq18dYmEysVYSRDPqaKnLTZlLmy7bj7GZIXJG55hChoA_d68UgdSe2bZNFfADAQEW
+2016-08-24 16:09:46,085 [main] INFO  com.self.wechat.menu.MenuManage - 菜单创建成功！
+2016-08-24 16:09:54,741 [main] INFO  com.self.wechat.menu.MenuManage - 什么都没干
+2016-08-24 16:09:55,002 [main] INFO  com.self.wechat.token.TokenManage - 真的进来了======================
+2016-08-24 16:09:55,002 [main] INFO  com.self.wechat.token.TokenManage - 又来一次
+2016-08-24 16:09:56,005 [main] INFO  com.self.wechat.token.TokenManage - token================null 获取token
+2016-08-24 16:09:56,005 [main] INFO  com.self.wechat.menu.MenuManage - 创建菜单token>>>>>>>>>>>>>>>>>>sByFYyiQv3QuM5v7m0XrdYkneqvlsynSxYt0OD698a2nfdKZ6IgNuPO309tWngy9kEO-Px7bG6E8se5iC4H6NygmhqWNj4rV9RTbHK036QlJcrXfXHNOagHZIALCqND4CUOfADAKCW
+2016-08-24 16:09:56,303 [main] INFO  com.self.wechat.menu.MenuManage - 菜单创建成功！
+2016-08-24 16:20:50,615 [main] INFO  com.self.wechat.token.TokenManage - 真的进来了======================
+2016-08-24 16:20:50,620 [main] INFO  com.self.wechat.token.TokenManage - 又来一次
+2016-08-24 16:20:51,967 [main] INFO  com.self.wechat.token.TokenManage - token================null 获取token
+2016-08-24 16:20:51,967 [main] INFO  com.self.wechat.menu.MenuManage - 删除菜单token>>>>>>>>>>>>>>>>>>Qx1WQQ2VTxjJU5bVIl9fifuvUA8nwjVc4QopbuD6lZskXJ1Sg0MSaragM7nJx9fR_c0sRh_iPgYltD69SWCGL9x4kRqXkK9vZ-dd3MIi3jesjJC6kM0goPdOLRCr3Pm1CBGfAAAIHM
+2016-08-24 16:20:56,725 [main] INFO  com.self.wechat.token.TokenManage - 真的进来了======================
+2016-08-24 16:20:56,731 [main] INFO  com.self.wechat.token.TokenManage - 又来一次
+2016-08-24 16:20:57,930 [main] INFO  com.self.wechat.token.TokenManage - token================null 获取token
+2016-08-24 16:20:57,931 [main] INFO  com.self.wechat.menu.MenuManage - 删除菜单token>>>>>>>>>>>>>>>>>>Qx1WQQ2VTxjJU5bVIl9fifuvUA8nwjVc4QopbuD6lZtuqXWetVQuRI0NwddorjF2q49fxb4f5XSehn8XJLOmA489VSEuCATZfR9kSlRzp9BmLwGl5m7zC09SEWzGG7EeBLFfAAAEOI
+2016-08-24 16:25:14,924 [main] INFO  com.self.wechat.token.TokenManage - 真的进来了======================
+2016-08-24 16:25:14,930 [main] INFO  com.self.wechat.token.TokenManage - 又来一次
+2016-08-24 16:25:15,974 [main] INFO  com.self.wechat.token.TokenManage - token================null 获取token
+2016-08-24 16:25:15,974 [main] INFO  com.self.wechat.menu.MenuManage - 删除菜单token>>>>>>>>>>>>>>>>>>T8ZOiaaxsukRPAIBgPoKbkhtBlCPK2Ffb9d6Q-CpA7ruIsJZbK8OGYqVVE11mvmKUxZbl_SFDFTDnMOCsfHwWdoTjqfpLx9KazrQhCGDXlBObxSLj7t0Ivd99GQgolL2DMJaAFAWFC
+2016-08-24 16:26:52,732 [main] INFO  com.self.wechat.menu.MenuManage - 删除菜单token>>>>>>>>>>>>>>>>>>T8ZOiaaxsukRPAIBgPoKbkhtBlCPK2Ffb9d6Q-CpA7ruIsJZbK8OGYqVVE11mvmKUxZbl_SFDFTDnMOCsfHwWdoTjqfpLx9KazrQhCGDXlBObxSLj7t0Ivd99GQgolL2DMJaAFAWFC
+2016-08-24 16:44:50,674 [main] INFO  com.self.wechat.menu.MenuManage - 什么都没干
+2016-08-24 16:44:50,946 [main] INFO  com.self.wechat.menu.MenuManage - 创建菜单token>>>>>>>>>>>>>>>>>>T8ZOiaaxsukRPAIBgPoKbkhtBlCPK2Ffb9d6Q-CpA7ruIsJZbK8OGYqVVE11mvmKUxZbl_SFDFTDnMOCsfHwWdoTjqfpLx9KazrQhCGDXlBObxSLj7t0Ivd99GQgolL2DMJaAFAWFC
+2016-08-24 16:44:52,124 [main] INFO  com.self.wechat.menu.MenuManage - 菜单创建成功！
+2016-08-24 16:45:05,080 [main] INFO  com.self.wechat.menu.MenuManage - 删除菜单token>>>>>>>>>>>>>>>>>>T8ZOiaaxsukRPAIBgPoKbkhtBlCPK2Ffb9d6Q-CpA7ruIsJZbK8OGYqVVE11mvmKUxZbl_SFDFTDnMOCsfHwWdoTjqfpLx9KazrQhCGDXlBObxSLj7t0Ivd99GQgolL2DMJaAFAWFC
+2016-08-24 16:45:19,969 [main] INFO  com.self.wechat.menu.MenuManage - 删除菜单token>>>>>>>>>>>>>>>>>>T8ZOiaaxsukRPAIBgPoKbkhtBlCPK2Ffb9d6Q-CpA7ruIsJZbK8OGYqVVE11mvmKUxZbl_SFDFTDnMOCsfHwWdoTjqfpLx9KazrQhCGDXlBObxSLj7t0Ivd99GQgolL2DMJaAFAWFC
+2016-08-24 16:46:55,039 [main] INFO  com.self.wechat.menu.MenuManage - 删除菜单token>>>>>>>>>>>>>>>>>>T8ZOiaaxsukRPAIBgPoKbkhtBlCPK2Ffb9d6Q-CpA7ruIsJZbK8OGYqVVE11mvmKUxZbl_SFDFTDnMOCsfHwWdoTjqfpLx9KazrQhCGDXlBObxSLj7t0Ivd99GQgolL2DMJaAFAWFC
+2016-08-24 16:46:56,561 [main] INFO  com.self.wechat.menu.MenuManage - 菜单删除成功！
+2016-08-24 16:49:09,409 [main] INFO  com.self.wechat.menu.MenuManage - 什么都没干
+2016-08-24 16:49:09,657 [main] INFO  com.self.wechat.menu.MenuManage - 创建菜单token>>>>>>>>>>>>>>>>>>T8ZOiaaxsukRPAIBgPoKbkhtBlCPK2Ffb9d6Q-CpA7ruIsJZbK8OGYqVVE11mvmKUxZbl_SFDFTDnMOCsfHwWdoTjqfpLx9KazrQhCGDXlBObxSLj7t0Ivd99GQgolL2DMJaAFAWFC
+2016-08-24 16:49:10,837 [main] INFO  com.self.wechat.menu.MenuManage - 菜单创建成功！
+2016-08-24 16:54:39,064 [main] INFO  com.self.wechat.menu.MenuManage - {"menu":{"button":[{"name":"网站","sub_button":[{"name":"百度","sub_button":[],"type":"view","url":"http://www.baidu.com"},{"name":"爱奇艺","sub_button":[],"type":"view","url":"http://www.iqiyi.com"}]},{"name":"image","sub_button":[{"key":"new1","name":"单图文","sub_button":[],"type":"click"},{"key":"new2","name":"单图文-不含图片","sub_button":[],"type":"click"},{"key":"new3","name":"多图文","sub_button":[],"type":"click"},{"key":"new4","name":"多图文-首条不含图片","sub_button":[],"type":"click"},{"key":"buy","name":"模板消息测试","sub_button":[],"type":"click"}]}]}}
+2016-08-24 16:59:00,724 [main] INFO  com.self.wechat.menu.MenuManage - {"menu":{"button":[{"name":"网站","sub_button":[{"name":"百度","sub_button":[],"type":"view","url":"http://www.baidu.com"},{"name":"爱奇艺","sub_button":[],"type":"view","url":"http://www.iqiyi.com"}]},{"name":"image","sub_button":[{"key":"new1","name":"单图文","sub_button":[],"type":"click"},{"key":"new2","name":"单图文-不含图片","sub_button":[],"type":"click"},{"key":"new3","name":"多图文","sub_button":[],"type":"click"},{"key":"new4","name":"多图文-首条不含图片","sub_button":[],"type":"click"},{"key":"buy","name":"模板消息测试","sub_button":[],"type":"click"}]}]}}
+2016-08-24 16:59:00,852 [main] INFO  com.self.wechat.menu.MenuManage - {"is_menu_open":1,"selfmenu_info":{"button":[{"name":"网站","sub_button":{"list":[{"name":"百度","type":"view","url":"http://www.baidu.com"},{"name":"爱奇艺","type":"view","url":"http://www.iqiyi.com"}]}},{"name":"image","sub_button":{"list":[{"key":"new1","name":"单图文","type":"click"},{"key":"new2","name":"单图文-不含图片","type":"click"},{"key":"new3","name":"多图文","type":"click"},{"key":"new4","name":"多图文-首条不含图片","type":"click"},{"key":"buy","name":"模板消息测试","type":"click"}]}}]}}
+2016-08-24 17:10:09,930 [main] INFO  com.self.wechat.menu.MenuManage - 创建菜单token>>>>>>>>>>>>>>>>>>T8ZOiaaxsukRPAIBgPoKbkhtBlCPK2Ffb9d6Q-CpA7ruIsJZbK8OGYqVVE11mvmKUxZbl_SFDFTDnMOCsfHwWdoTjqfpLx9KazrQhCGDXlBObxSLj7t0Ivd99GQgolL2DMJaAFAWFC
+2016-08-24 17:10:13,675 [main] INFO  com.self.wechat.menu.MenuManage - 菜单创建成功！

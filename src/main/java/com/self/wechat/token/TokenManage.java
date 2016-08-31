@@ -24,12 +24,16 @@ public class TokenManage {
      * @return
      */
     public static Token getToken() throws Exception {
+        logger.info("真的进来了======================");
+        System.out.println(token==null);
         if (token == null) {
             refreshToken();
+            logger.info("token================null 获取token");
             return token;
         }
         if (System.currentTimeMillis() >= token.getExpires_in()) {
             refreshToken();
+            logger.info("System.currentTimeMillis() >= token.getExpires_in()");
             return token;
         }
         logger.info("缓存的token>>>>>>>>>>>" + token.getAccess_token());
@@ -42,5 +46,6 @@ public class TokenManage {
     public static void refreshToken() throws Exception {
 
         token = TokenApi.getToken("wx5184e09f3973c95b", "bbeccfdecbd117cbc6edd0fcddc5ca03");
+        logger.info(token.getAccess_token());
     }
 }
